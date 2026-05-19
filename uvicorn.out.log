@@ -1,0 +1,17 @@
+INFO:     127.0.0.1:54380 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57059 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57059 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57059 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60389 - "GET /fuels HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60389 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60389 - "GET /fuel-types HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60389 - "GET /docs/fuel HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60389 - "GET /api/openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52150 - "GET /fuels HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52150 - "GET /static/styles.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:52150 - "GET /fuels HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52150 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52150 - "GET /docs/fuel HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52150 - "GET /api/openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60501 - "GET /fuels HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60501 - "GET /fuel-types HTTP/1.1" 200 OK
